@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+<div class="layout">
+  {% include sidebar.html %}  <!-- Sidebar appears once -->
+
+  <div class="page">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {{ content }}
+  </div>
 </div>
