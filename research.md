@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: default
+title: Research
 ---
 
 <p class="message">
