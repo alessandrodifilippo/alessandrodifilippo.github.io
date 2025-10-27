@@ -248,3 +248,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* pers1 */
+.theme-base-0h .sidebar {
+  background-color: #FF9D00;
+}
+.theme-base-0h .content a,
+.theme-base-0h .related-posts li a:hover {
+  color: #EF7722;
+}
+
