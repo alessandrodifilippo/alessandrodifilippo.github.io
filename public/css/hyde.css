@@ -53,12 +53,45 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+
+/* Sidebar Background and Text Color */
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(255, 255, 255, 1); /* Ensure solid white text */
   background-color: #202020;
 }
+
+/* Sidebar Links - Make sure they are white and clearly visible */
+.sidebar a {
+  color: #fff !important; /* Explicitly set to white */
+  text-decoration: none; /* Remove underline by default */
+}
+
+.sidebar a:hover,
+.sidebar a:focus {
+  color: #007bff; /* Hover color */
+  text-decoration: underline;
+}
+
+.sidebar-nav-item.active {
+  font-weight: bold;
+  color: #ff5733; /* Active link color (highlight) */
+}
+
+/* For the About Section */
+.sidebar-about h1 {
+  color: #fff;  /* White text for title */
+}
+
+/* If you want to add a background color on hover or active state */
+.sidebar-nav-item:hover,
+.sidebar-nav-item.active {
+  background-color: #333; /* Dark background for hover or active */
+  color: #fff !important;  /* Keep text color white */
+}
+
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
