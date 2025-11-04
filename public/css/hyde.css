@@ -68,12 +68,12 @@ html {
   text-decoration: none; /* Remove underline by default */
 }
 
-
-.sidebar-nav-item.active {
-  font-weight: bold;
-  color: #ff5733; /* Active link color (highlight) */
+/* No hover effect - Remove hover style */
+.sidebar a:hover,
+.sidebar a:focus {
+  color: inherit;  /* Inherit the default color */
+  text-decoration: none;  /* Remove any underline or decoration */
 }
-
 
 @media (min-width: 48em) {
   .sidebar {
