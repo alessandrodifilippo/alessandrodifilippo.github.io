@@ -68,27 +68,10 @@ html {
   text-decoration: none; /* Remove underline by default */
 }
 
-.sidebar a:hover,
-.sidebar a:focus {
-  color: #007bff; /* Hover color */
-  text-decoration: underline;
-}
 
 .sidebar-nav-item.active {
   font-weight: bold;
   color: #ff5733; /* Active link color (highlight) */
-}
-
-/* For the About Section */
-.sidebar-about h1 {
-  color: #fff;  /* White text for title */
-}
-
-/* If you want to add a background color on hover or active state */
-.sidebar-nav-item:hover,
-.sidebar-nav-item.active {
-  background-color: #333; /* Dark background for hover or active */
-  color: #fff !important;  /* Keep text color white */
 }
 
 
