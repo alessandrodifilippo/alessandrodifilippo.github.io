@@ -4,7 +4,34 @@ title: Home
 ---
 
 ciaoo
+
+    <header>
+        <h1>{{ page.title }}</h1>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="row">
+                <!-- Left Column: Image -->
+                <div class="column left">
+                    <img src="public/css/apple-touch-icon-144-precomposition.png" alt="Image description" style="width: 100%; max-width: 500px;">
+                </div>
+
+                <!-- Right Column: Text -->
+                <div class="column right">
+                    <h2>Welcome to My Website</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin interdum mi ut ligula bibendum, et sollicitudin felis vehicula. Aliquam erat volutpat. In nec libero vitae enim gravida sollicitudin.</p>
+                    <p>Curabitur vehicula quam vel erat cursus, ac convallis justo consequat. Integer non fermentum leo. Mauris tempor elit at interdum pharetra.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Copyright © {{ site.title }} - {{ site.time | date: "%Y" }}</p>
+    </footer>
       {% comment %}
+
 
 <div class="posts">
   {% for post in paginator.posts %}
