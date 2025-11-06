@@ -186,31 +186,53 @@ a.sidebar-nav-item:focus {
 
 
 
-/* Basic styling for the two-column layout */
+
+
+
+
+html, body {
+    height: 100%;  /* Make sure the body takes up the full height */
+    margin: 0;  /* Remove default margin */
+}
+
+/* Center the entire page */
+body {
+    display: flex;
+    justify-content: center;  /* Center horizontally */
+    align-items: center;  /* Center vertically */
+    min-height: 100vh;  /* Ensure the body fills the entire viewport */
+    overflow: hidden;  /* Disable scrolling */
+}
+
+/* Flex container that holds your columns */
 .container {
-    max-width: 1200px;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+/* Row for the two columns */
+.row {
+    display: flex;
+    justify-content: center;  /* Center columns horizontally within the row */
+    align-items: center;  /* Align columns vertically in the center */
+    gap: 20px;  /* Space between the columns */
+}
+
+/* Left and right columns */
+.column {
+    flex: 1;
     padding: 20px;
 }
 
-.row {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px; /* Space between the columns */
-}
-
-.column {
-    flex: 1;
-    padding: 10px;
-}
-
 .left {
-    /* You can customize the image column further if needed */
+    /* You can adjust the image styles here */
 }
 
 .right {
-    max-width: 600px; /* Control the width of the text column */
+    max-width: 600px;  /* Control the width of the text column */
 }
 
 /* Make it responsive: stack the columns on smaller screens */
@@ -225,8 +247,6 @@ a.sidebar-nav-item:focus {
         max-width: 100%;
     }
 }
-
-
 /*
  * Themes
  *
