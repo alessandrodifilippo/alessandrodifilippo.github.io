@@ -129,7 +129,7 @@ a.sidebar-nav-item:focus {
   padding-top: 4rem;
   padding-bottom: 4rem;
   width: 75%; /* Let it expand to the full width */
-  max-width: 58rem; /* Optional: limits the max width of the content */
+  max-width: 48rem; /* Optional: limits the max width of the content */
   box-sizing: border-box; /* Includes padding in width calculations */
   word-wrap: break-word; /* Makes long words break properly */
   overflow-wrap: break-word; /* Ensures wrapping */
