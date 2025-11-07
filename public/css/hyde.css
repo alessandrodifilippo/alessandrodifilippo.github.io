@@ -122,18 +122,21 @@ a.sidebar-nav-item:focus {
  */
 
 /* Basic styling for .content */
+
+
+/* Basic content styles */
 .content {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  width: 80%;
-  word-wrap: break-word; /* Ensure long words break and wrap */
-  overflow-wrap: break-word; /* Helps prevent overflow */
-  word-break: break-word; /* Optional: breaks words at the end of a line */
+  width: 100%; /* Let it expand to the full width */
+  max-width: 58rem; /* Optional: limits the max width of the content */
+  box-sizing: border-box; /* Includes padding in width calculations */
+  word-wrap: break-word; /* Makes long words break properly */
+  overflow-wrap: break-word; /* Ensures wrapping */
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 58rem; /* Keeps max width to prevent content from growing too wide */
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -145,6 +148,14 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
+
+/* Ensure body doesn’t have unwanted overflow */
+html, body {
+  overflow-x: hidden; /* Prevents horizontal scrolling */
+  width: 100%;
+  height: 100%;
+}
+
 /*
  * Reverse layout
  *
