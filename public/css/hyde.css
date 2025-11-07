@@ -152,7 +152,7 @@ a.sidebar-nav-item:focus {
 /* Ensure body doesn’t have unwanted overflow */
 html, body {
   overflow-x: hidden; /* Prevents horizontal scrolling */
-  width: 100%;
+  width: 75%;
   height: 100%;
 }
 
