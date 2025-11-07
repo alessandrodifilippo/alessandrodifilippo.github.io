@@ -121,15 +121,19 @@ a.sidebar-nav-item:focus {
  * with a 25%-wide `.sidebar`.
  */
 
+/* Basic styling for .content */
 .content {
-  padding-top:    4rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
-  width: 80%
+  width: 80%;
+  word-wrap: break-word; /* Ensure long words break and wrap */
+  overflow-wrap: break-word; /* Helps prevent overflow */
+  word-break: break-word; /* Optional: breaks words at the end of a line */
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 58rem;
+    max-width: 58rem; /* Keeps max width to prevent content from growing too wide */
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -141,8 +145,6 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
-
-
 /*
  * Reverse layout
  *
