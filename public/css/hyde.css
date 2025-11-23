@@ -39,9 +39,9 @@ html {
     font-size: 16px;
   }
 }
-@media (min-width: 58em) {
+@media (min-width: 64em) {
   html {
-    font-size: 20px;
+    font-size: 22px;
   }
 }
 
@@ -133,7 +133,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 58rem;
+    max-width: 48rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -141,7 +141,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .content {
-    max-width: 78rem;
+    max-width: 64rem;
     margin-left: 22rem;
     margin-right: 4rem;
   }
