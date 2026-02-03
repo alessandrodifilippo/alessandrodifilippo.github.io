@@ -3,17 +3,15 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p>Ph.D. Student @ ifo Institute / LMU</p>
-  <p>difilippo <<at>> ifo.de</p>
+  _difilippo \<\<at\>\< ifo.de_
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>among my research interests:</p>
+    <p>sunbathing at the english garden</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,14 +29,9 @@ latest_posts:
 
 Ciao!
 
-I am Alessandro, a second-year PhD student in Economics at the ifo Institute and LMU (Munich, Germany).
+I am Alessandro, a second-year PhD student in Economics at the **ifo Institute** and **LMU** (Munich, Germany).
 
-I am generally curious about anything that falls within applied microeconomics, but with a special interest in gender economics!
+My interests are in **labor** and **gender economics**, but I'm generally curious about anything gravitating around applied microeconomics!
 
-Feel free to reach out for a talk, a joke, a game of chess!
+You can find my CV [here](/assets/pdf/Curriculum%20ADF.pdf). For anything you cannot find there, feel free to reach out!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
