@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  _difilippo \<\<at\>\< ifo.de_
+subtitle: /
 
 profile:
   align: right
@@ -34,3 +33,5 @@ I am Alessandro, a second-year PhD student in Economics at the **ifo Institute**
 My interests are in **labor** and **gender economics**, but I'm generally curious about anything gravitating around applied microeconomics!
 
 You can find my CV [here](/assets/pdf/Curriculum%20ADF.pdf). For anything you cannot find there, feel free to reach out!
+
+📫 _difilippo /at\ ifo.de_
