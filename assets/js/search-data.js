@@ -521,6 +521,13 @@ ninja.data = [{
           window.open("mailto:%64%69%66%69%6C%69%70%70%6F@%69%66%6F.%64%65", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/alessandrodifilippo", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
