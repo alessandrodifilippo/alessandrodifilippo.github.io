@@ -8,6 +8,7 @@ email: difilippo@ifo.de # your email address
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+linkedin_username: alessandrodifilippo # your LinkedIn user name
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://upload.wikimedia.org/wikipedia/commons/d/da/Lichess_Logo_2019.svg # can be png, svg, jpg
   title: lichess
