@@ -7,9 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-## Publications
+_working on it_
 
-### **Title of the Paper** — 2024  
+### working papers
+
+### published papers
+
+##### **Title of the Paper** — 2024  
 **Authors:** **First Author, Second Author, Third Author**  
 **Links:** **[PDF](https://example.com/pdf)** · **[arXiv](https://arxiv.org/abs/xxxx.xxxxx)** · **[Code](https://github.com/username/repo)**
 
@@ -26,7 +30,7 @@ without breaking the layout.
 
 ---
 
-### **Another Paper Title** — **2023**  
+#### **Another Paper Title** — **2023**  
 **Authors:** **Author A, Author B**  
 **Links:** **[DOI](https://doi.org/xxxxx)** · **[Project Page](https://example.com)**
 
