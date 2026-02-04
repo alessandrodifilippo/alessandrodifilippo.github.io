@@ -15,3 +15,9 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 {% include courses.liquid %}
 -->
+
+### 2026
+- Supervisor for bachelor students' theses in Economics @ LMU
+
+### 2025
+- ["Gender, Labor, Society"](https://cms-cdn.lmu.de/media/50-zentren/isc-informations-und-servicecenter-wirtschaftswissenschaftliche-pruefungen/downloads/04-volkswirtschaftliche-studiengaenge/sps-m12/20252_bsc_rainer.pdf) @ LMU - Joint Lecturer with [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home)
