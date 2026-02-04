@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: enjoying munich
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,15 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
 
 Ciao!
 
-I am Alessandro, a second-year PhD student in Economics at the **ifo Institute** and **LMU** (Munich, Germany).
+I am a second-year PhD student in Economics at the **ifo Institute and LMU**.
 
-My interests are in **labor** and **gender economics**, but I'm generally curious about anything gravitating around applied microeconomics!
+My interests are in **labor and gender economics**, but I'm generally curious about anything gravitating around applied microeconomics!
 
-You can find my CV [here](/assets/pdf/Curriculum%20ADF.pdf). For anything you cannot find there, feel free to reach out!
+You can find my CV [here](/assets/pdf/Curriculum%20ADF.pdf). And for whatever is missing there, feel free to reach out!
 
-📫 _difilippo /at\ ifo.de_
+📫 difilippo -at- ifo.de
