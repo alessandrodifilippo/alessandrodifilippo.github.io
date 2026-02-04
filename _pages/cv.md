@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: cv
 permalink: /assets/pdf/Curriculum%20ADF.pdf
 title: CV
@@ -10,4 +10,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 redirect:
----
+--- -->
