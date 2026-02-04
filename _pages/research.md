@@ -7,10 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-_working on it_
 
 ### working papers
 
+_working on it_
+
+<!--
 ### published papers
 
 ##### **Title of the Paper** — 2024  
@@ -43,3 +45,4 @@ so it remains readable even with many publications.
 </p>
 
 </details>
+-->
