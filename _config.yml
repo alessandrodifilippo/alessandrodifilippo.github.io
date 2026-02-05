@@ -8,11 +8,11 @@ middle_name:
 last_name: Di Filippo
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Alessandro Di Filippo, PhD. Student in labor and gender economics.
+  Alessandro Di Filippo, PhD Student in labor and gender economics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: economics, ifo-institute, ifo-institut, lmu, di-filippo, phd, academia, labor-economics, gender-economics, applied-economics, applied-microeconomics, ifo # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔆 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
