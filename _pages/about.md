@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <div style="font-family: 'Roboto', sans-serif; font-weight: 300; font-size: 1.1rem;"> sunny munich </div>
+  more_info: sunny munich
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
