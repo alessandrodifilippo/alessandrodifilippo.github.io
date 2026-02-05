@@ -31,7 +31,9 @@ Ciao!
 
 I am a second-year PhD student in Economics at the **ifo Institute and LMU**.
 
-My interests are in **labor and gender economics**, but I'm generally curious about anything gravitating around applied microeconomics!
+Previously, I completed my Master’s at Bocconi University and my Bachelor’s at the University of Salerno, where I’m originally from.
+
+My interests are in **labor and gender economics**, though I’m always curious about topics across applied microeconomics!
 
 You can find my CV [here](/assets/pdf/Curriculum%20ADF.pdf). And for whatever is missing there, feel free to reach out!
 
