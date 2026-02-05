@@ -1,0 +1,11 @@
+/* Move .more-info text up and center it */
+.more-info {
+  text-align: center;
+  margin-top: -10px; /* adjust to move higher */
+
+  div {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.1rem;
+  }
+}
