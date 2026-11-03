@@ -29,7 +29,7 @@ latest_posts:
 
 Ciao!
 
-I am a third-year PhD student in Economics at the **ifo Institute and LMU**.
+I am a PhD student in Economics at the **ifo Institute and LMU**.
 
 Previously, I completed my Master’s at Bocconi University and my Bachelor’s at the University of Salerno, where I’m originally from.
 
